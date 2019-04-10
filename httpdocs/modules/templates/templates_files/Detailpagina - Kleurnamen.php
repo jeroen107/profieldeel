@@ -80,49 +80,27 @@
     <section>
         <div class="container">
             <div class="row">
+            <?php
+            $data = db_pdo_select_all('SELECT * FROM kleurnamen');
+            shuffle($data);
+            foreach ($data as $k => $v){
+                $url = pages_url('kleurnamen',$v["id"],$v["naam"].'-'.$v["id"]);
+
+                ?>
+
                 <div class="col-lg-3 col-md-4 col-6">
-                    <a  href="/artikel.html" class="artikel">
+                    <a  href="/<?php echo $url?>" class="artikel">
                         <div class="img">
-                            <div class="inner" style="background-image:url(@@img)"></div>
+                            <div class="inner" style="background-image:url(https://inrichterijvantoen.nl/slir/w900<?php echo $v["foto"]?>)"></div>
                         </div>
-                        <span class="brand">The Zoo</span>
-                        <p class="price">&euro; 49,95</p>
-                        <h2>Een vrije lange naam</h2>
+                        <span class="brand">No. 212</span>
+                        <h2><?php echo $v["naam"]?></h2>
                     </a>
                 </div>
 
-                <div class="col-lg-3 col-md-4 col-6">
-                    <a  href="/artikel.html" class="artikel">
-                        <div class="img">
-                            <div class="inner" style="background-image:url(@@img)"></div>
-                        </div>
-                        <span class="brand">The Zoo</span>
-                        <p class="price">&euro; 49,95</p>
-                        <h2>Een vrije lange naam</h2>
-                    </a>
-                </div>
 
-                <div class="col-lg-3 col-md-4 col-6">
-                    <a  href="/artikel.html" class="artikel">
-                        <div class="img">
-                            <div class="inner" style="background-image:url(@@img)"></div>
-                        </div>
-                        <span class="brand">The Zoo</span>
-                        <p class="price">&euro; 49,95</p>
-                        <h2>Een vrije lange naam</h2>
-                    </a>
-                </div>
+        <?php if($k === 3 )break;}?>
 
-                <div class="col-lg-3 col-md-4 col-6">
-                    <a  href="/artikel.html" class="artikel">
-                        <div class="img">
-                            <div class="inner" style="background-image:url(@@img)"></div>
-                        </div>
-                        <span class="brand">The Zoo</span>
-                        <p class="price">&euro; 49,95</p>
-                        <h2>Een vrije lange naam</h2>
-                    </a>
-                </div>
 
             </div>
         </div>
