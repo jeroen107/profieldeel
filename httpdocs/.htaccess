@@ -1,0 +1,153 @@
+RewriteEngine on
+# RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+# RewriteCond %{HTTPS} !on
+# RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteCond %{REQUEST_URI} !^/assets/.*
+RewriteCond %{REQUEST_URI} !^/img/.*
+RewriteCond %{REQUEST_URI} !^/files/.*
+RewriteCond %{REQUEST_URI} !^/fonts/.*
+RewriteCond %{REQUEST_URI} !^/css/.*
+RewriteCond %{REQUEST_URI} !^/js/.*
+RewriteCond %{REQUEST_URI} !^/sitemap.php
+RewriteCond %{REQUEST_URI} !^/robots.txt
+RewriteCond %{REQUEST_URI} /
+RewriteRule ^(.*) index.php\?url=$1\&%{QUERY_STRING}
+
+<IfModule mod_expires.c>
+
+ 	ExpiresActive On
+	ExpiresByType text/css "access plus 1 week"
+	ExpiresByType application/javascript "access plus 1 week"
+	ExpiresByType image/png "access plus 1 week"
+	ExpiresByType image/jpeg "access plus 1 week"
+
+</IfModule>
+
+# requests zonder Referrer, later gebruiken
+#
+SetEnvIf Referer "^$" empty_referrer
+
+# Deze User-Agents mogen geen method POST doen
+#
+# Een aantal bekende hack scripts of user agents
+SetEnvIfNoCase User-Agent "^BOT/0.1" post_bot
+SetEnvIfNoCase User-Agent "^LWP::Simple" post_bot
+SetEnvIfNoCase User-Agent "^libwww-perl" post_bot
+
+# Browsers waarvan we zien dat ze te oud voor gebruik zijn
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(Windows; U; Windows NT 5.1; ru; rv:1.9.2.3\) Gecko\/20100401 Firefox\/3\.6\.3" script_kiddy
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(Windows; U; Windows NT 5.1; ru; rv:1.9.0.2\) Gecko\/2008091620 Firefox\/3\.0\.2" script_kiddy
+SetEnvIfNoCase User-Agent "Mozilla\/5\.. \(Windows NT ...; WOW64; rv:13\.0\) Gecko\/20100101 Firefox\/13\..\.." script_kiddy
+SetEnvIfNoCase User-Agent "Mozilla\/5\.. \(Windows NT .\..; rv:2.\.0\) Gecko\/20100101 Firefox\/2\.\.." script_kiddy
+
+# Windows agent, vrijwel altijd abuse naar xmlrpc.php van Wordpress
+SetEnvIfNoCase User-Agent "Mozilla\/4\.0 \(compatible; Win32; WinHttp\.WinHttpRequest\.5\)" script_kiddy
+
+# Onmogelijke user-agent (rv=24, en Firefox/25 (getallen zouden hetzelfde moeten zijn)
+SetEnvIfNoCase User-Agent "Mozilla\/6\.0 \(X11; Linux i686; rv:24\.0\) Gecko\/20100101 Firefox\/25\.0" script_kiddy
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(Windows NT 6\.1; WOW64; rv:18\.0\) Gecko\/20100101 Firefox\/24\.0" script_kiddy
+
+# Stock oud, abuse naar xmlrpc.php
+SetEnvIfNoCase User-Agent "MSIE 7\.0" old_msie
+SetEnvIfNoCase User-Agent "MSIE 6\.0" old_msie
+
+# Ongeldige user agent
+SetEnvIfNoCase User-Agent "^Mozilla\/4\.0$" script_kiddy
+
+# Spam Comment Poster script
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(Windows; U; Windows NT 6\.1; en-GB; rv:1\.9\.1\.3\) Gecko\/20090824 Firefox\/3\.5\.3" script_kiddy
+
+# Spam bot
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(Windows; U; Windows NT 5\.1; zh-CN; rv:1\.7\.6\)" script_kiddy
+
+# Wordpress brute-force hacker
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(Windows NT 6\.1; WOW64\) AppleWebKit\/537\.36 \(KHTML\, like Gecko\) Chrome\/33\.0\.1750\.154 Safari\/537\.36" wordpress_bruteforce
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(X11; Ubuntu; Linux x86_64; rv:23.0\) Gecko\/20100101 Firefox\/23\.0" wordpress_bruteforce
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(X11; U; Linux i686; pt-BR; rv:1\.9\.0\.15\) Gecko\/2009102815 Ubuntu\/9\.04 \(jaunty\) Firefox\/3\.0\.15" wordpress_bruteforce
+
+# Joomla brute-force hacker
+SetEnvIfNoCase User-Agent "Mozilla\/5\.0 \(Windows NT 6\.1; WOW64; rv:17\.0\) Gecko\/20100101 Firefox\/17\.0" joomla_bruteforce
+
+# User Agents leeg
+#
+SetEnvIfNoCase User-Agent "^$" empty_agent
+
+# scan_bot's
+# Deze User-Agents mogen niets
+#
+SetEnvIfNoCase User-Agent "^ZmEu" scan_bot
+SetEnvIfNoCase User-Agent "^Indy Library" scan_bot
+
+
+
+#LogFormat "%v %h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\"" badbots
+
+#CustomLog /var/log/apache2/badbots-postbot.log badbots env=post_bot
+#CustomLog /var/log/apache2/badbots-scanbot.log badbots env=scan_bot
+#CustomLog /var/log/apache2/badbots-empty_referrer.log badbots env=empty_referrer
+#CustomLog /var/log/apache2/badbots-empty_agent.log badbots env=empty_agent
+#CustomLog /var/log/apache2/badbots-script_kiddy.log badbots env=script_kiddy
+#CustomLog /var/log/apache2/badbots-old_msie.log badbots env=old_msie
+#CustomLog /var/log/apache2/badbots-wordpress_bruteforce.log badbots env=wordpress_bruteforce
+#CustomLog /var/log/apache2/badbots-joomla_bruteforce.log badbots env=joomla_bruteforce.log
+
+
+# Hier houden we POSTs tegen van bekende hack-scripts (User-Agent post_bot)
+
+<Limit POST>
+       Order Allow,Deny
+       Allow from all
+       Deny from env=post_bot
+       Deny from env=script_kiddy
+       Deny from env=old_msie
+       Deny from env=joomla_bruteforce
+</Limit>
+
+      # Hier houden we POSTs tegen naar wordpress wp-admin (wp-login.php) als de Referrer leeg is
+      #
+<FilesMatch "wp-login.php">
+       <Limit POST>
+               Order Allow,Deny
+               Allow from all
+               Deny from env=empty_referrer
+               Deny from env=post_bot
+               Deny from env=scan_bot
+               Deny from env=empty_agent
+               Deny from env=script_kiddy
+               Deny from env=old_msie
+               Deny from env=wordpress_bruteforce
+       </Limit>
+</FilesMatch>
+
+      # Hier houden we POSTs tegen naar wordpress wp-admin (wp-login.php) en de xmlrpc.php als de User-Agent leeg is
+      #
+<FilesMatch "(wp-login.php|xmlrpc.php)">
+       <Limit POST>
+               Order Allow,Deny
+               Allow from all
+              Deny from env=empty_agent
+              Deny from env=script_kiddy
+               Deny from env=old_msie
+               Deny from env=scan_bot
+              Deny from env=wordpress_bruteforce
+       </Limit>
+</FilesMatch>
+
+
+      # Hier houden we alles tegen van bekende scanners (User-Agent scan_bot of User-Agents die we alleen van hack-scripts zien)
+      #
+<Limit GET POST>
+       Order Allow,Deny
+       Allow from all
+       Deny from env=scan_bot
+       Deny from env=script_kiddy
+</Limit>
+
+      # Hier houden we alle oude MSIE browsers tegen (6.0 en 7.0 versies) qua POSTs (GET mag dus nog wel)
+      #
+<Limit POST>
+       Order Allow,Deny
+       Allow from all
+       Deny from env=old_msie
+</Limit>

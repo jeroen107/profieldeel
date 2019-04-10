@@ -1,0 +1,2252 @@
+
+[Sat Feb 10 00:51:13 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-58021.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w800/files/voorbeelden/pexels-photo-58021.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:51:13 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w800/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:51:18 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-58021.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w200/files/voorbeelden/pexels-photo-58021.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:51:18 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w200/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:51:21 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w100/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:51:21 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-58021.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w100/files/voorbeelden/pexels-photo-58021.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:51:28 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-58021.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-58021.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:51:28 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:53:40 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:55:18 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:55:25 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:55:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:55:57 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:56:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:56:51 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:57:35 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:57:36 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 00:58:13 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:38:49 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:39:02 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:39:19 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:39:21 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:39:38 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:39:39 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:39:51 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:39:52 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 12:41:09 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 16:54:31 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 16:54:35 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 16:54:36 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 16:54:40 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 16:54:40 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:23:35 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:32 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:32 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:32 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:42 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:42 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:42 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:44:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:39 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:39 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:39 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:43 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:43 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:43 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:44 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:44 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:46:44 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:47:02 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w1950-c20x5/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:47:02 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:47:02 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:58:26 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:58:26 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:58:32 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 22:58:32 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:06:09 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:06:09 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:06:12 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:06:12 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:06:57 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:06:57 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:09:06 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:09:06 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:09:26 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:09:26 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:11:01 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:11:01 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:16:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:16:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:19:19 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:19:19 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:19:22 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:19:22 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:37:12 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:37:12 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:37:12 2018] Garbage collection started
+[Sat Feb 10 23:37:12 2018] ErrorException thrown within the SLIR garbage collector. Message: Cannot modify header information - headers already sent by (output started at /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirexceptionhandler.class.php:139) in /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php on line 396
+Exception trace stack: Array
+(
+    [0] => Array
+        (
+            [function] => handleError
+            [class] => SLIRExceptionHandler
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => 2
+                    [1] => Cannot modify header information - headers already sent by (output started at /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirexceptionhandler.class.php:139)
+                    [2] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+                    [3] => 396
+                    [4] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+            [line] => 396
+            [function] => header
+            [args] => Array
+                (
+                    [0] => Connection: close
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+            [line] => 439
+            [function] => startGarbageCollection
+            [class] => SLIR
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => collectGarbage
+            [class] => SLIR
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+[Sat Feb 10 23:37:15 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:37:15 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:41:07 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:41:07 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:54:42 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:54:42 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:55:01 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:55:01 2018] Garbage collection started
+[Sat Feb 10 23:55:01 2018] ErrorException thrown within the SLIR garbage collector. Message: Cannot modify header information - headers already sent by (output started at /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirexceptionhandler.class.php:139) in /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php on line 396
+Exception trace stack: Array
+(
+    [0] => Array
+        (
+            [function] => handleError
+            [class] => SLIRExceptionHandler
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => 2
+                    [1] => Cannot modify header information - headers already sent by (output started at /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirexceptionhandler.class.php:139)
+                    [2] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+                    [3] => 396
+                    [4] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+            [line] => 396
+            [function] => header
+            [args] => Array
+                (
+                    [0] => Connection: close
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+            [line] => 439
+            [function] => startGarbageCollection
+            [class] => SLIR
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => collectGarbage
+            [class] => SLIR
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+[Sat Feb 10 23:55:01 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:55:08 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:55:08 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:55:11 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:55:11 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:55:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sat Feb 10 23:55:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:01 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:01 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:43 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:43 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:47 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:47 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:48 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:02:48 2018] Garbage collection started
+[Sun Feb 11 00:02:48 2018] ErrorException thrown within the SLIR garbage collector. Message: Cannot modify header information - headers already sent by (output started at /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirexceptionhandler.class.php:139) in /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php on line 396
+Exception trace stack: Array
+(
+    [0] => Array
+        (
+            [function] => handleError
+            [class] => SLIRExceptionHandler
+            [type] => ::
+            [args] => Array
+                (
+                    [0] => 2
+                    [1] => Cannot modify header information - headers already sent by (output started at /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirexceptionhandler.class.php:139)
+                    [2] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+                    [3] => 396
+                    [4] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+            [line] => 396
+            [function] => header
+            [args] => Array
+                (
+                    [0] => Connection: close
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php
+            [line] => 439
+            [function] => startGarbageCollection
+            [class] => SLIR
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [3] => Array
+        (
+            [function] => collectGarbage
+            [class] => SLIR
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+)
+
+[Sun Feb 11 00:02:49 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:03:11 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:03:12 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:03:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:03:47 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:04:17 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:04:17 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:05:02 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:05:02 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:08 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:08 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:14 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:14 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:16 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:16 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:28 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:28 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:07:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:08:29 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:08:29 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:08:33 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:08:33 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:15:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:15:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:18:34 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:18:34 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:18:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:28:43 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:28:43 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:29:14 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:29:14 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:29:19 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:29:25 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:29:25 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:30:54 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:32:14 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdfafdasdfasd
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:36:53 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:36:53 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:36:57 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:36:57 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:04 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:04 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:08 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:08 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:08 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:08 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:09 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:09 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:23 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:23 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:24 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:37:24 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:38:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:38:45 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:39:23 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:39:23 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:39:26 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:39:26 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:39:36 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:39:36 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:39:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 00:39:37 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/asdfasdf
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 22:32:14 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-257897.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-257897.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Sun Feb 11 22:32:14 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-374074.jpeg
+
+REFERRER: http://httpdocs:8888/home
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-374074.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Fri Mar 23 21:54:25 2018] [::1 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36] Image does not exist: /Users/Dimar/Documents/Projects/2018/httpdocs/files/voorbeelden/pexels-photo-574071.jpeg
+
+REFERRER: http://httpdocs:8888/
+
+REQUEST: httpdocs/slir/w350-c20x12/files/voorbeelden/pexels-photo-574071.jpeg
+
+#0 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/voorbeel...')
+#1 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/voorbeel...')
+#2 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /Users/Dimar/Documents/Projects/2018/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:03:16 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/handles_and_more_plantenbak.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w150-c115x100/files/handles_and_more_plantenbak.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/handles_...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/handles_...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:03:16 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/img_6558.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/h150/files/img_6558.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/img_6558...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/img_6558...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:03:16 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/handles_and_moren_plantenbak_2.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w150-c115x100/files/handles_and_moren_plantenbak_2.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/handles_...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/handles_...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:04:03 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/img_6558.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/h150/files/img_6558.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/img_6558...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/img_6558...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:04:03 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/handles_and_more_plantenbak.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w150-c115x100/files/handles_and_more_plantenbak.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/handles_...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/handles_...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:04:03 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/handles_and_moren_plantenbak_2.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w150-c115x100/files/handles_and_moren_plantenbak_2.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/handles_...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/handles_...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:04:30 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/serveer-_snijplank_monsieur.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/h150/files/serveer-_snijplank_monsieur.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/serveer-...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/serveer-...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:53:24 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/hk_household_dusting_set_1.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/h150/files/hk_household_dusting_set_1.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/hk_house...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/hk_house...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:53:24 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/hk_household_dusting_set.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w150-c115x100/files/hk_household_dusting_set.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/hk_house...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/hk_house...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:53:24 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/img_4305.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w150-c115x100/files/img_4305.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/img_4305...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/img_4305...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:53:50 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/0bc9283aca3a3e5072e3ca7659c69ccd--string-system-string-shelf.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w150-c115x100/files/0bc9283aca3a3e5072e3ca7659c69ccd--string-system-string-shelf.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/0bc9283a...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/0bc9283a...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 16:53:50 2019] [81.204.32.167 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/11string_iso.jpg
+
+REFERRER: 
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/h150/files/11string_iso.jpg
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/11string...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/11string...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 19:34:11 2019] [82.217.60.113 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/advies/bestand_03-05-17_12_47_27.jpeg)
+
+REFERRER: http://inrichterijvantoen.dev-tmo.nl/advies
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w800/files/advies/bestand_03-05-17_12_47_27.jpeg)
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/advies/b...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/advies/b...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 19:34:11 2019] [82.217.60.113 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/advies/bestand_03-03-17_16_18_31.jpeg)
+
+REFERRER: http://inrichterijvantoen.dev-tmo.nl/advies
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w800/files/advies/bestand_03-03-17_16_18_31.jpeg)
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/advies/b...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/advies/b...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 19:34:38 2019] [82.217.60.113 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/advies/bestand_03-05-17_12_47_27.jpeg)
+
+REFERRER: http://inrichterijvantoen.dev-tmo.nl/advies
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w800/files/advies/bestand_03-05-17_12_47_27.jpeg)
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/advies/b...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/advies/b...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 19:34:38 2019] [82.217.60.113 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/advies/bestand_03-03-17_16_18_31.jpeg)
+
+REFERRER: http://inrichterijvantoen.dev-tmo.nl/advies
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w800/files/advies/bestand_03-03-17_16_18_31.jpeg)
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/advies/b...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/advies/b...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 19:34:54 2019] [82.217.60.113 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/advies/bestand_03-05-17_12_47_27.jpeg)
+
+REFERRER: http://inrichterijvantoen.dev-tmo.nl/advies
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w800/files/advies/bestand_03-05-17_12_47_27.jpeg)
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/advies/b...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/advies/b...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
+[Tue Apr 09 19:34:54 2019] [82.217.60.113 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36] Image does not exist: /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/files/advies/bestand_03-03-17_16_18_31.jpeg)
+
+REFERRER: http://inrichterijvantoen.dev-tmo.nl/advies
+
+REQUEST: inrichterijvantoen.dev-tmo.nl/slir/w800/files/advies/bestand_03-03-17_16_18_31.jpeg)
+
+#0 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(166): SLIRRequest->setPath('/files/advies/b...')
+#1 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slirrequest.class.php(119): SLIRRequest->__set('i', '/files/advies/b...')
+#2 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/core/slir.class.php(229): SLIRRequest->__construct()
+#3 /var/www/vhosts/inrichterijvantoen.dev-tmo.nl/httpdocs/slir/index.php(30): SLIR->processRequestFromURL()
+#4 {main}
