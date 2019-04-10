@@ -118,15 +118,17 @@
                     <h2>4. Je bestelling</h2>
 
                     <div class="order">
-                        <?php foreach ($_SESSION["cart"] as $k => $v){
-                            $artikelen = db_pdo_fetch_array(db_pdo_select("SELECT * FROM artikelen WHERE id = '".$v."'"));
-                           
+                        <?php
+
+                        foreach ($_SESSION["cart"] as $k => $v) {
+                            $artikelen = db_pdo_fetch_array(db_pdo_select("SELECT * FROM artikelen WHERE id = '" . $v . "'"));
+
                             ?>
                         <div class="line">
                             <div class="img"><img src="https://inrichterijvantoen.nl/slir/w300/<?php echo $artikelen["foto"]?>"></div>
                             <div class="title">
                                 <?php echo $artikelen["naam"]?>
-                                <div class="prijs">1x <?php echo prijs($artikelen["prijs"])?></div>
+                                <div class="prijs">1x</div>
                                 <a href="/controllers/cart/remove/<?php echo $k?>">Verwijderen</a>
                             </div>
                         </div>

@@ -67,7 +67,7 @@ $merk = db_pdo_fetch_array(db_pdo_select("SELECT * FROM merken WHERE id = :id", 
                             </p>
                         </div>
                         <br>
-                        <a href="" class="add-to-bag" data-id='12'>Voeg toe aan winkelwagen <i class="fas fa-shopping-cart"></i></a>
+                        <a href="" class="add-to-bag" data-id=<?php echo $arginfo['id'] ?>>Voeg toe aan winkelwagen <i class="fas fa-shopping-cart"></i></a>
 
 
                         <p class="brand-info mt-5">

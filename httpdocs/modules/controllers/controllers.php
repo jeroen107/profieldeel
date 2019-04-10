@@ -4,9 +4,9 @@ function controllers_add2cart(){
 
 
 
-
+if (is_array($_SESSION["cart"]) || is_object($_SESSION["cart"])) {
     $_SESSION["cart"] = array_values($_SESSION["cart"]);
-
+}
 
     $id =$_POST["id"];
 
