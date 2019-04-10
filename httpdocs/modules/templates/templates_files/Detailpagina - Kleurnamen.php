@@ -2,19 +2,7 @@
 		include("header.php");
 		global $arginfo;
 		?>
-		<div class="container">
-				<h1>TEST</h1>
-				<h2>This seems to be a new template. Add some code and love</h2>
-				<br><br>
-				<table class="table">
-					<?php
-						if(is_array($arginfo)){ foreach($arginfo as $k => $v){ ?>
-					<tr>
-						<td><?php echo $k?></td><td><?php echo $v?></td>
-					</tr>
-				<?php }}?>
-				</table>
-		</div>
+
 
 
     <section class="my-5">
@@ -79,6 +67,64 @@
                 </div>
             </div>
 
+        </div>
+    </section>
+
+
+    <section class="title  py-5 my-4">
+        <div class="container">
+            <h2>Andere</h2>
+            <h3><span>Mooie artikelen</span></h3>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-4 col-6">
+                    <a  href="/artikel.html" class="artikel">
+                        <div class="img">
+                            <div class="inner" style="background-image:url(@@img)"></div>
+                        </div>
+                        <span class="brand">The Zoo</span>
+                        <p class="price">&euro; 49,95</p>
+                        <h2>Een vrije lange naam</h2>
+                    </a>
+                </div>
+
+                <div class="col-lg-3 col-md-4 col-6">
+                    <a  href="/artikel.html" class="artikel">
+                        <div class="img">
+                            <div class="inner" style="background-image:url(@@img)"></div>
+                        </div>
+                        <span class="brand">The Zoo</span>
+                        <p class="price">&euro; 49,95</p>
+                        <h2>Een vrije lange naam</h2>
+                    </a>
+                </div>
+
+                <div class="col-lg-3 col-md-4 col-6">
+                    <a  href="/artikel.html" class="artikel">
+                        <div class="img">
+                            <div class="inner" style="background-image:url(@@img)"></div>
+                        </div>
+                        <span class="brand">The Zoo</span>
+                        <p class="price">&euro; 49,95</p>
+                        <h2>Een vrije lange naam</h2>
+                    </a>
+                </div>
+
+                <div class="col-lg-3 col-md-4 col-6">
+                    <a  href="/artikel.html" class="artikel">
+                        <div class="img">
+                            <div class="inner" style="background-image:url(@@img)"></div>
+                        </div>
+                        <span class="brand">The Zoo</span>
+                        <p class="price">&euro; 49,95</p>
+                        <h2>Een vrije lange naam</h2>
+                    </a>
+                </div>
+
+            </div>
         </div>
     </section>
 
